@@ -49,6 +49,7 @@
 ?>
  
  <h1>SI NO ESTAS REGISTRADO PUEDES REGISTRARTE</h1>
+ <a href="registro.php"><input type="button" value="registrar"></a>
   
    
     
