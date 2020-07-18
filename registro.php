@@ -55,6 +55,7 @@
 ?>
 <br>
 <h1>GRACIAS POR TU CONFIANZA</h1>
+<h2>gracias</h2>
 
 <a href="index.php">Desea regresar a login?</a>
 </body>
